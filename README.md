@@ -190,7 +190,7 @@ Browse popular development technologies and build your own custom tech stack, wi
 
 [![Email](https://img.shields.io/badge/Email-mrkhan.ds.swe@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrkhan.ds.swe@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-r-khan-dipu393/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1F3A6E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sites.google.com/view/mrkhandipu/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1F3A6E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://m-r-khan-dipu.vercel.app/)
 
 <br/>
 
